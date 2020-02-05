@@ -4,7 +4,6 @@
 [comment]: Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 -->
 ### 联系方式
-
 Tel: +86 18610559011   &emsp;   Wechat: thn244976078  &emsp;  E-mail： hntong@bupt.edu.cn
 
 主要研究方向：机器学习在网络中的应用，     研究兴趣：强化学习，优化
@@ -51,8 +50,6 @@ Tel: +86 18610559011   &emsp;   Wechat: thn244976078  &emsp;  E-mail： hntong@b
 -	直面挑战，不畏惧未知因素
 -	喜欢和优秀的人一起交流进步
 -	爱好摄影、弹吉他 、各种音乐、各种电影、足球、篮球、羽毛球
-
-
 
 <!--
 ### Support or Contact
