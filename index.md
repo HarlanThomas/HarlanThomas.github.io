@@ -20,7 +20,7 @@ Tel: +86 18610559011   &emsp;   Wechat: thn244976078  &emsp;  E-mail： hntong@b
 -	天津大学				通信工程 (平均成绩: 91.2/100  排名：2/103)	       &nbsp;    学士	  &nbsp;    2014.09 - 2018.07
 
 ### 项目/实习经历
-* 国家重大专项，负责子课题“新一代5G固定与移动融合网络系统研究与验证”        &nbsp;&nbsp;&nbsp;&emsp;  --2019.01-2019.12项目    
+* 国家重大专项，负责子课题“新一代5G固定与移动融合网络系统研究与验证”        &emsp;  --2019.01-2019.12项目    
 >    * sci 期刊论文1篇在投, 发表会议论文1篇，1项专利在审
 >    * 设计并且实现Echo State Network(ESN)模型，利用岭回归可快速训练，实现移动用户轨迹的实时预测
 >    - 利用模糊层次分析(FAHP)进行多模信息融合，为网络切换条件提供依据
@@ -37,7 +37,7 @@ Tel: +86 18610559011   &emsp;   Wechat: thn244976078  &emsp;  E-mail： hntong@b
 -	自学机器学习，Web搜索相关课程
 >    - 熟悉强化学习，神经网络，逻辑回归，SVM，PCA，聚类，协同过滤推荐等算法
 
-### 项目/实习经历
+### 竞赛/获奖/论文情况
 -	IEEE ACCESS 期刊论文在投，“Seamless Handover with Mobility Information and MPTCP in Software Defined HetNets”
 - 发表 WCSP2019 会议论文 “A FAHP and MPTCP Based Seamless Handover Method in Heterogeneous SDN Wireless Networks”		DOI: 10.1109/WCSP.2019.8927998    
 - 国家重大专项1份专利过审待公布，   专利号：201910848569.6
