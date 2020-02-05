@@ -5,7 +5,7 @@
 -->
 ### 联系方式
 
-Tel: +86 18610559011      Wechat: thn244976078    E-mail： hntong@bupt.edu.cn
+Tel: +86 18610559011   &emsp;   Wechat: thn244976078  &emsp;  E-mail： hntong@bupt.edu.cn
 
 主要研究方向：机器学习在网络中的应用，     研究兴趣：强化学习，优化
 
@@ -20,22 +20,22 @@ Tel: +86 18610559011      Wechat: thn244976078    E-mail： hntong@bupt.edu.cn
 -	天津大学				通信工程 (平均成绩: 91.2/100  排名：2/103)	       &nbsp;    学士	  &nbsp;    2014.09 - 2018.07
 
 ### 项目/实习经历
-* 国家重大专项，负责子课题“新一代5G固定与移动融合网络系统研究与验证”        &nbsp;&nbsp;&nbsp;  --2019.01-2019.12项目    
-    * sci 期刊论文1篇在投, 发表会议论文1篇，1项专利在审
-    * 设计并且实现Echo State Network(ESN)模型，利用岭回归可快速训练，实现移动用户轨迹的实时预测
-    -	利用模糊层次分析(FAHP)进行多模信息融合，为网络切换条件提供依据
-    - 使用MPTCP协议进行网络业务的连续传输，实现无缝切换
--	Deecamp 2019，完成项目“质量感知的媒体传输优化”                         &nbsp;&nbsp;&nbsp;  --2019.07-2019.08 夏令营
-    - https://github.com/HarlanThomas/adaptive-bitrate-streaming
-    - 复现SIGCOMM pensieve论文，利用A3C强化学习算法调整Dash.js前端视频的码率，优化用户体验
-    -	完成前端与深度学习模型的接口工作
-    -	改进pensieve模型，在RL模型中增加meta-framework，实现千人千面的码率自适应(ABR)算法
--	基于凸优化的密集协作网络管理	                                        &nbsp;&nbsp;&nbsp;    --2018.1-2018.6毕业设计
-    -	构建网络系统的能耗模型
-    - 利用松弛变量将目标函数转化为二阶标准锥规划，通过对偶间隙分析问题的可行性
-    - 利用交替方向乘子分裂法(ADMM)对于大规模凸优化问题进行迭代求解
+* 国家重大专项，负责子课题“新一代5G固定与移动融合网络系统研究与验证”        &nbsp;&nbsp;&nbsp;&emsp;  --2019.01-2019.12项目    
+>    * sci 期刊论文1篇在投, 发表会议论文1篇，1项专利在审
+>    * 设计并且实现Echo State Network(ESN)模型，利用岭回归可快速训练，实现移动用户轨迹的实时预测
+>    - 利用模糊层次分析(FAHP)进行多模信息融合，为网络切换条件提供依据
+>   - 使用MPTCP协议进行网络业务的连续传输，实现无缝切换
+-	Deecamp 2019，完成项目“质量感知的媒体传输优化”                         &nbsp;&nbsp;&nbsp;&emsp;  --2019.07-2019.08 夏令营
+>    - https://github.com/HarlanThomas/adaptive-bitrate-streaming
+>    - 复现SIGCOMM pensieve论文，利用A3C强化学习算法调整Dash.js前端视频的码率，优化用户体验
+>    - 完成前端与深度学习模型的接口工作
+>    - 改进pensieve模型，在RL模型中增加meta-framework，实现千人千面的码率自适应(ABR)算法
+-	基于凸优化的密集协作网络管理	                                        &nbsp;&nbsp;&nbsp;&emsp;    --2018.1-2018.6毕业设计
+>    - 构建网络系统的能耗模型
+>   - 利用松弛变量将目标函数转化为二阶标准锥规划，通过对偶间隙分析问题的可行性
+>   - 利用交替方向乘子分裂法(ADMM)对于大规模凸优化问题进行迭代求解
 -	自学机器学习，Web搜索相关课程
-    -	熟悉强化学习，神经网络，逻辑回归，SVM，PCA，聚类，协同过滤推荐等算法
+>    - 熟悉强化学习，神经网络，逻辑回归，SVM，PCA，聚类，协同过滤推荐等算法
 
 ### 项目/实习经历
 -	IEEE ACCESS 期刊论文在投，“Seamless Handover with Mobility Information and MPTCP in Software Defined HetNets”
